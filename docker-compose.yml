@@ -1,0 +1,4 @@
+services:
+  diagnostics:
+    build: .
+    container_name: system-health-worker
